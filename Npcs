@@ -1,0 +1,43 @@
+Design:
+##############
+# #
+#     #
+#   / | \    #
+#  A  B  C   #
+#    / \     #
+#   D   E    #
+#            #
+##############
+
+Legenda:
+# - Parede ou obstáculo
+T - Árvore
+A, B, C - NPCs
+D, E - ObjetosativosNPC Design:
+NPC:
+- Nome:
+- Profissão: Ferreiro
+- Personalidade: Amigável e trabalhador
+- Diálogo: "Olá! Se precisar de alguma arma ou armadura, estou aqui para ajudar."
+
+NPC B:
+- Nome: Emily
+- Profissão: Agricultora
+- Personalidade: Alegre e extrovertida
+- Diálogo: "Bem-vindo à minha fazenda! Se precisar produtos frescos, é só me avisar."
+
+NPC C:
+- Nome:
+- Profissão: Caçador
+- Personalidade: Observador e corajoso
+- Diálogo: "Cuidado com as criaturas selvagens por aqui. Se precisar de peles ou carne, estou à disposição."
+
+Objetos Interativos:
+Objeto D:
+- Descrição: Baú de tesouro
+- Localização: Ao lado do NPC B
+- Interatividade: O jogador pode abrir o baú para obter recompensas especiais.
+
+Objeto E- Descrição: Fonte de água
+- Localização: Ao lado do NPC C
+- Interatividade: O jogador pode interagir com a fonte para recuperar energia e saúde.
